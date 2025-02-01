@@ -28,7 +28,7 @@ This project is a hands-on attempt to **build a database from scratch** to under
 - The basics of writing a **mini SQL engine** in C  
 
 ## 🏗️ How It’s Built (Step by Step)  
-1. ~~Setting up a simple **REPL**~~
+1. Setting up a simple **REPL**
 2. ~~Building a **SQL compiler & virtual machine**~~
 3. ~~Implementing an **in-memory database**~~
 4. ~~Adding **file storage** for persistence~~
