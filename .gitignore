@@ -1,6 +1,7 @@
 # Ignore compiled binaries and object files
 sqlite_clone
 build/
+.vscode/
 
 # Prerequisites
 *.d
