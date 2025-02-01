@@ -43,7 +43,7 @@ This project is a hands-on attempt to **build a database from scratch** to under
 Clone the repo and compile it using a C compiler:  
 
 ```sh
-git clone https://github.com/your-repo/simple-database-c.git
+git clone https://github.com/proXDhiya/simple-database-c.git
 cd simple-database-c
 gcc -o simpledb simpledb.c
 ./simpledb
