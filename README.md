@@ -28,16 +28,16 @@ This project is a hands-on attempt to **build a database from scratch** to under
 - The basics of writing a **mini SQL engine** in C  
 
 ## 🏗️ How It’s Built (Step by Step)  
-1. Setting up a simple **REPL**  
-2. Building a **SQL compiler & virtual machine**  
-3. Implementing an **in-memory database**  
-4. Adding **file storage** for persistence  
-5. Creating a **cursor abstraction** for data traversal  
-6. Implementing **B-Trees** for indexing  
-7. Handling **binary search & duplicate keys**  
-8. Splitting **leaf & internal nodes**  
-9. Supporting **multi-level B-Tree traversal**  
-10. Optimizing query execution  
+1. ~~Setting up a simple **REPL**~~
+2. ~~Building a **SQL compiler & virtual machine**~~
+3. ~~Implementing an **in-memory database**~~
+4. ~~Adding **file storage** for persistence~~
+5. ~~Creating a **cursor abstraction** for data traversal~~
+6. ~~Implementing **B-Trees** for indexing~~
+7. ~~Handling **binary search & duplicate keys**~~
+8. ~~Splitting **leaf & internal nodes**~~
+9. ~~Supporting **multi-level B-Tree traversal**~~
+10. ~~Optimizing query execution~~  
 
 ## 🛠️ Getting Started  
 Clone the repo and compile it using a C compiler:  
