@@ -14,8 +14,9 @@ typedef enum {
 
 // Enum for preparation results
 typedef enum {
-    PREPARE_SUCCESS,                    // Statement prepared successfully
-    PREPARE_UNRECOGNIZED_STATEMENT      // Statement not recognized
+  PREPARE_SUCCESS,
+  PREPARE_SYNTAX_ERROR,
+  PREPARE_UNRECOGNIZED_STATEMENT
 } PrepareResult;
 
 // Enum for statement types
